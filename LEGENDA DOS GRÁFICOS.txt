@@ -1,0 +1,20 @@
+Pontos: Valores da dispersão com valores preditos no eixo Y e valores reais no Eixo X
+
+-------------------------------------------------------------------------------------
+
+Linha tracejada em vermelho: Linha de tendencia da dispersão
+
+-------------------------------------------------------------------------------------
+
+Linha tracejada em azul: Linha de referência que indica a igualdade entre valores reais e preditos (previsão perfeita).
+
+-------------------------------------------------------------------------------------
+
+Área cinza: Intervalo de confiança da linha regressão
+............
+
+A área cinza que envolve a linha vermelha representa o intervalo de confiança da linha de regressão. Ele indica a incerteza na estimativa da linha de regressão.
+
+Em termos mais simples, a área cinza mostra que a linha vermelha é apenas uma estimativa da verdadeira relação entre as variáveis, e que a verdadeira reta de regressão pode estar um pouco acima ou abaixo da linha vermelha, dentro da área cinza.
+
+A largura da área cinza está relacionada à quantidade de dados e à variabilidade dos dados. Quanto mais dados você tiver e quanto menos variados forem os dados, menor será a área cinza, indicando uma estimativa mais precisa da linha de regressão.
