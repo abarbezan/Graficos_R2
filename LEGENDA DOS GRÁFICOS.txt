@@ -2,7 +2,7 @@ Pontos: Valores da dispersão com valores preditos no eixo Y e valores reais no 
 
 -------------------------------------------------------------------------------------
 
-Linha tracejada em vermelho: Linha de tendencia da dispersão
+Linha cheia em vermelho: Linha de tendencia da dispersão
 
 -------------------------------------------------------------------------------------
 
